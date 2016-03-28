@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "myclock",
+  "version": "1.0",
+  "description":"Time Now",
+  "icons":{
+    "16":"images/1802.png",
+    "48":"images/1803.png",
+    "128":"images/1804.png"
+  },
+  "browser_action":{
+    "default_icon": {
+      "19":"images/1811.png",
+      "38":"images/1814.png"
+    },
+    "default_title":"MyClock",
+    "default_popup":"popup.html"
+  }
+}
